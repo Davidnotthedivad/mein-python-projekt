@@ -1,4 +1,4 @@
-    # main.py
+# main.py
 def hallo_welt():
     print("Hallo, Welt und Menschen!")
 
@@ -8,5 +8,5 @@ def gruss(name):
 
 if __name__ == "__main__":
     hallo_welt()
-    gruss("Python Entwickler:innen")
-    abschied("Python Entwickler:innen")
+    gruss("Python Entwickler")
+    abschied("Python Entwickler")
