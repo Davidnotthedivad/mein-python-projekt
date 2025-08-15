@@ -8,5 +8,5 @@ def gruss(name):
 
 if __name__ == "__main__":
     hallo_welt()
-    gruss("Python Entwickler")
-    abschied("Python Entwickler")
+    gruss("Python Entwickler:innen")
+    abschied("Python Entwickler:innen")
